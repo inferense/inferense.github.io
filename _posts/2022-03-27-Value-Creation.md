@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Value Creation
-permalink: /Value-Creation/
+permalink: /vc/
 ---
 From Jobs:
 > _"You know we're constantly taking. We don't make most of the food we eat, we don't grow it, anyway. We wear clothes other people make, we speak a language other people developed, we use a mathematics other people evolved and spent their lives building. I mean we're constantly taking things. It's a wonderful ecstatic feeling to create something and put it into the pool of human experience and knowledge."_
