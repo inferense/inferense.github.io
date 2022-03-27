@@ -31,4 +31,4 @@ We're still far away. Value creation might get us closer.
 
 ---
 
-[^1]: Most of the people with internet access, higher education and basic needs covered have or/and have had this choice before which accounts for 68.26% people living in the developed world if we go by normal distribution (numbers are bit higher in Europe and lower in the US).
+[^1]: Most of the people with internet access, higher education and basic needs covered have or/and have had this choice before which accounts for ~68% people living in the developed world if we go by normal distribution (numbers are bit higher in Europe and lower in the US).
