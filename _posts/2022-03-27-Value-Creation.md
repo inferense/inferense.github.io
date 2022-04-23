@@ -24,7 +24,7 @@ In any way, meritocracy isn't much of a silver bullet to value creation. It's ma
 
 I believe a new kind of meritocracy with direction is desperately needed. A meritocracy where it's agents optimize for value add for others. In such case, these agents also indirectly create a positive net value for other uninvolved agents - the environment.
 
-Developing a new technology instead of improving an ad engine / engagement. Striving to educate than just going through talking points. Producing goods in an honest way before maximizing revenue. Creating real content instead of selfies. Can't forget the easy but valuable cliche - spreading kindness and love. Everyone can do this one right away at no cost. The reciever becomes more productive producer, better educated, healhtier - everyone around benefits. 
+Developing a new technology instead of an ad engine. Spreading truth and helpful information rather than optimising for engagement. Striving to educate than just going through talking points. Producing goods in an honest way before maximizing revenue.. Acts of kindness go a long way and anyone can conduct them at any time, they're cheap. In such environment, the reciever becomes a more productive producer, better educated, healhtier which makes everyone else better. 
 
 ---
 
