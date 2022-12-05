@@ -9,7 +9,7 @@ Sadly, the internet has been hijacked by capitalism at it's worst. This poor sta
 
 Well, what's worrysome is that it seems like we got acustomed to this rather quickly. If you already forgot and ask what should the internet look like, here is a quick reminder. When I search for "*how camera works*" I want to get [this.](https://ciechanow.ski/cameras-and-lenses/) Plain text website, simple visuals, created with the sole intention of educating me right there and then with no strings attached.
 
-So, how did we get here? How come people got used to this degrading treatment? I suspect it's the same way people get [fat](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity) and [addicted](https://nida.nih.gov/research-topics/trends-statistics/overdose-death-rates), commit fraud, learn bad habbits or destroy value. I thought a marginal thinking is an appropriate description for the process.
+So, how did we get here? How come people got used to this degrading treatment? I suspect it's the same way companies grow poor cultures, people get [fat](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), commit fraud or destroy value. Marginal thinking seems like an appropriate description for the problem.
 
 ![marginal-thinking](/assets/images/absolute_marginal.png)
 
@@ -17,7 +17,7 @@ A first incremental step in the wrong direction feels just like a small misstep,
 
 On the other side, thinking in absolute values is a compass.
 *If we were to set up a colony on Mars, how would we do that? What have we learned on earth?*
-Sometimes, I think about these questions, and somehow they always manage to bring clarity to the ideas and solutions I think about even for acreom.
+Somehow, these questions bring an instant clarity to decisions I think about.
 
 from [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/): 
 > It’s kind of embarrassing that random nobodies can think up states of affairs better than the one we actually live in. And in fact most of them can’t. A lot of utopias sweep the hard problems under the rug, or would fall apart in ten minutes if actually implemented
