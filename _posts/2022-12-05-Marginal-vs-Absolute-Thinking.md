@@ -19,6 +19,7 @@ On the other side, thinking in absolute values is a compass.
 *If we were to set up a colony on Mars, how would we do that? What have we learned on earth?*
 Sometimes, I think about these questions, and somehow they always manage to bring clarity to the ideas and solutions I think about even for acreom.
 
-from [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/): *It’s kind of embarrassing that random nobodies can think up states of affairs better than the one we actually live in. And in fact most of them can’t. A lot of utopias sweep the hard problems under the rug, or would fall apart in ten minutes if actually implemented*
+from [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/): 
+> It’s kind of embarrassing that random nobodies can think up states of affairs better than the one we actually live in. And in fact most of them can’t. A lot of utopias sweep the hard problems under the rug, or would fall apart in ten minutes if actually implemented
 
 And this is one of them unless everyone thinks in absolute values. But at least it's written with an intention to make things less bad, far from utopistic. Also, there is a lot of hypocracy by not walking the talk. Taking a voluntary participation in the problem is as bad as creating the problem. It doesn't make much sense to rebel against the ads while employing them for your own benefit. Everyone's actions speak loud. Absolute thinking is only a way to direct them in a productive way for everyone.
