@@ -9,7 +9,7 @@ Sadly, the internet has been hijacked by capitalism at it's worst. This poor sta
 
 Well, what's worrysome is that it seems like we got acustomed to this rather quickly. If you already forgot and ask what should the internet look like, here is a quick reminder. When I search for "*how camera works*" I want to get [this.](https://ciechanow.ski/cameras-and-lenses/) Plain text website, simple visuals, created with the sole intention of educating me right there and then with no strings attached.
 
-So, how did we get here? How come people got used to this degrading treatment? I suspect it's the same way companies grow poor cultures, people get [fat](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity), commit fraud or destroy value. Marginal thinking seems like an appropriate description for the problem.
+So, how did we get here? How did people get used to this degrading treatment? I suspect it's the same way companies grow poor cultures, people get [fat](https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity) destroy value or get used tothe status quo. Marginal thinking seems like an appropriate description for the problem.
 
 ![marginal-thinking](/assets/images/absolute_marginal.png)
 
