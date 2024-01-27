@@ -6,7 +6,8 @@ permalink: /pc/
 The [Mac just turned 40](https://computerhistory.org/exhibits/hello-the-mac-at-40/). Perhaps it's a good time to reminisce [why 1984 was not like 1984](https://www.youtube.com/watch?v=ErwS24cBZPc). 
 
 Here's an image of the team which built the original Macintosh,  one of the most consequential pieces of consumer technology.
-![mac-team](assets/images/mac-team.png)
+
+![mac-team](/assets/images/mac-team.png)
 
 
 > Developing the Mac took three years of long days, all-nighters, lost weekends, take-out food, and near constant fatigue punctuated by rare thrills when tough technical challenges were solved.
