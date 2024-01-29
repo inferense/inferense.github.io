@@ -25,7 +25,7 @@ When it comes to the transmittion itself, it's about who is getting hired, who g
 
 On the other hand, the performance culture is hard to build and requires an immense effort to maintain, especially with the scale. 
 
-So what is the performance culture? It's the 100% alignment and laser focus on executing a well defined mission. It's the self-policing team with 0 tolerance for bullshit or lack of ownership. It's the founders gatekeeping mediocrity, internal politics and activism. It's the hiring process screening for merit not the color of the skin on gender. 
+So what is the performance culture? It's the 100% alignment and laser focus on executing a well defined mission. It's the self-policing team with 0 tolerance for bullshit or lack of ownership. It's the founders gatekeeping mediocrity, internal politics and activism. It's the hiring process screening for merit not the color of the skin or gender. 
 
 This is what's necessary for moments like the Mac in 1984. It's not just the consumer tech, it's about creating better and healthier lives with prosperity for everyone. 
 
