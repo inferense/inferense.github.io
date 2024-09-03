@@ -11,7 +11,7 @@ As a result, the overinflated valuations with low returns have created a general
 
 But hey, no one cares. And fortunately, there's a cure. It's called engineering over AI. 
 
-Engineering over AI is everything but optimizing prompts and orchestrating agents. Engineering over AI is solving real engineering problems and using AI as the enabling layer based on a technical foundation. 
+Engineering over AI is everything but optimizing prompts and orchestrating agents. Engineering over AI is solving real engineering problems and using AI as the enabling layer on top of a solid technical foundation. 
 
 ## Generating code
 In the space of code generation agents, we have decided to take a step back and solve the context part first instead of focusing on agents.
