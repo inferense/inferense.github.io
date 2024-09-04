@@ -24,6 +24,6 @@ Embeddings offer great semantic understanding. However, codebases are of a struc
 
 Files are organized in a hierarchy representing high-level relationships. On the other hand the logic level is defined by functions, classes, methods, and variables which represent chunks of low-level logic which the code performs. Embeddings do not understand this. 
 
-This is also the reason why the higher context window doesn't matter. Even if you could feed your whole codebase into an LLM, you'd still face the same problem of missing the structural relationships of the codebae.
+This is also the reason why the higher context window doesn't matter. Even if you could feed your whole codebase into an LLM, you'd still face the same problem of missing the structural relationships of the codebase.
 
 Understanding code is the enabling layer for code generation applications. It's the main problem. It's engineering over AI.
