@@ -5,7 +5,7 @@ permalink: /building-great-ai-products/
 ---
 ![hero](/assets/images/building-great-ai-products-hero.png)
 
-For many engineers, the excessive hype has turned the word "AI" into a somewhat agonizing term. Besides the hype, there seems to be a complacency around building good products. I've seen an overwhelming amount of examples, but let's look at the recent few.
+For many engineers, the excessive hype has turned the word "AI" into a somewhat agonizing buzzword. There seems to be an interesting phenomenon going on with how products are built today around this buzzword. Every product team is jumping on this wave likely out of a fear of lagging behind. Though, what I see is complacency where products that don't need to be 'AI' suddenly are, and the products that are AI are AI for the sake of being AI. I've seen an overwhelming amount of examples, but let's look at the recent few.
 
 ![apple-ai](/assets/images/apple-intelligence.png)
 
@@ -15,18 +15,17 @@ For many engineers, the excessive hype has turned the word "AI" into a somewhat 
 
 See anything strange here? 
 
-# user experience over technology 
-Because this hypetrain is going fast, very fast, I guess it only makes sense for builders, PMs and engineers to come up with "AI product features". It gives everyone a feeling of innovation. Pushing the boundaries of technology. 
+# User experience over technology 
+Because this hypetrain is going fast, very fast, I guess it only makes sense for builders, PMs and engineers to come up with "AI product features" for the sake of AI. It gives everyone a feeling of innovation and progress. It also creates a good look for everyone involved since this is the current thing. 
 
-Let's go back in time to this wonderful [moment](https://www.youtube.com/watch?v=oeqPrUmVz-o). 
+But let's go back in time to this wonderful [moment](https://www.youtube.com/watch?v=oeqPrUmVz-o). 
 
 > “You’ve got to start with the customer experience and work backward to the technology. You can’t start with the technology then try to figure out where to sell it.”
 
-
-The "AI" marketing doesn't just completely miscommuniate any kind of benefit, it makes things worse. I see it everywhere, it works nowhere, I don't want it. 
+The "AI" marketing doesn't just completely miscommuniate any kind of resonating user benefit, it makes things worse. I see it everywhere, it works nowhere, I don't want it. 
 
 Though, I think the sceptical sentiment towards AI tools amongst its consumers is starting to grow. Recently I talked with a CTO in the valley who had a dinner with dozens of other CTOs at large companies. They talked about the adoption of the codegen AI for  their dev teams. It turns out, some of the most hyped and funded teams in the space have overpromised and underdelivered. So much so that these CTOs are reluctant to taking any new demo meetings.
 
 Unfortunately, this makes things hard for everyone including the ones who actually care about building good products that have something to do with AI. 
 
-Building great AI products starts from user experience, [engineering over AI](https://martinantos.com/engineering-over-ai/), problem-first and a first-principle thinking. 
+No one cares about the technology used when making a buying decision a product unless it represents a very specific benefit or a risk. Yet, the AI hive managed to sway many into this herd thinking of building products. Building great products starts from user experience, prioritising [engineering over AI](https://martinantos.com/engineering-over-ai/), problem-first and a first-principle thinking about the user and the problem.
