@@ -3,6 +3,8 @@ layout: post
 title: Building Great AI Products
 permalink: /building-great-ai-products/
 ---
+![hero](/assets/images/building-great-ai-products-hero.png)
+
 For many engineers, the excessive hype has turned the word "AI" into a somewhat agonizing term. Besides the hype, there seems to be a complacency around building good products. I've seen an overwhelming amount of examples, but let's look at the recent few.
 
 ![apple-ai](/assets/images/apple-intelligence.png)
