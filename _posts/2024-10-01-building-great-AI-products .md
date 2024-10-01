@@ -28,4 +28,20 @@ Though, I think the sceptical sentiment towards AI tools amongst its consumers i
 
 Unfortunately, this makes things hard for everyone including the ones who actually care about building good products that have something to do with AI. 
 
-No one cares about the technology used when making a buying decision a product unless it represents a very specific benefit or a risk. Yet, the AI hive managed to sway many into this herd thinking of building products. Building great products starts from user experience, prioritising [engineering over AI](https://martinantos.com/engineering-over-ai/), problem-first and a first-principle thinking about the user and the problem.
+No one cares about the technology used when making a buying decision a product unless it represents a very specific benefit or a risk. Yet, the AI hive managed to sway many into this herd thinking of building products. 
+
+# Noisy Magic
+The technical reason for the scepticism around AI tools is that most of them seem to be just wrappers. The problem with wrappers is that the current LLMs are still quite bad in production. They tend to hallucinate, a lot. 
+
+Even more robust products where the LLM serves as the user facing layer that runs on a complex tech foundation struggle with hallucinations. What all this means is a bad user experience. 
+
+It's not about the magical moments that an AI tool can create, it's about how much noise it serves the end-user. The dissatisfaction of the time wasted on evaluating and correcting a false positive result of an LLM tool, usually exceeds the satisfaction of a "magical moment" of a true positive result.
+
+What's the key to this? [engineering over AI](https://martinantos.com/engineering-over-ai/). Building a technical foundation where the LLM is just the enabling layer of the value. The technical foundation should be about a better context, robust filtering and evaluation systems which make the LLM perform well in a narrowly defined use case.
+
+Building great products starts from user experience, prioritising engineering over AI, problem-first and a first-principle thinking about the user and the problem. 
+
+
+
+
+
