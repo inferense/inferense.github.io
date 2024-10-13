@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Building Great AI Products
-permalink: /building-great-ai-products/
+title: I don't want your AI 
+permalink: /I-don't-want-your-AI/
 ---
 ![hero](/assets/images/building-great-ai-products-hero.png)
 
